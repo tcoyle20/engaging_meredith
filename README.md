@@ -5,4 +5,4 @@ This site was developed to showcase Meredith's advertising channels and capture 
 
 The /msg section was designed for the sales team to log in and save their calls and meetings.
 
-Code examples demonstrates use of PHP classes and methods.
+Code examples demonstrate use of PHP classes and methods - /sys/class.
